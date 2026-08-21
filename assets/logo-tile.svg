@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 170" role="img" aria-labelledby="t d">
-<title id="t">Ombudsman Republik Indonesia</title><desc id="d">Mark bergaya Ombudsman dengan lingkaran biru dan aksen oranye</desc>
-<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#063b73"/><stop offset="1" stop-color="#1687d0"/></linearGradient></defs>
-<rect width="420" height="170" rx="26" fill="white"/>
-<g transform="translate(22 18)"><circle cx="67" cy="67" r="58" fill="url(#b)"/><circle cx="67" cy="67" r="42" fill="none" stroke="white" stroke-width="12"/><circle cx="67" cy="58" r="11" fill="#f28c28"/><path d="M43 93c7-19 41-19 48 0" fill="none" stroke="#f28c28" stroke-width="10" stroke-linecap="round"/></g>
-<text x="145" y="77" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" fill="#063b73" letter-spacing="1">OMBUDSMAN</text>
-<text x="145" y="108" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" fill="#063b73" letter-spacing="2">REPUBLIK INDONESIA</text>
-</svg>
